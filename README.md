@@ -1,7 +1,7 @@
 # Interactive Exploration and Visualization of Algorithms for Machine Learning and Data Science
 ## MyBinder:
 Please follow this link to view this repository in a prebuilt environment:
-https://mybinder.org/v2/gh/PyMLVizard/MLPyViz.git/045fab7bd168172350124e3b7607689e67de4f8e
+https://mybinder.org/v2/gh/PyMLVizard/MLPyViz.git/develop
 
 ## Notebooks:
 * [Linear regression](notebooks/LinearRegression.ipynb)
