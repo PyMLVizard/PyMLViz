@@ -1,4 +1,4 @@
-jupyter contrib nbextension install --user
+#jupyter contrib nbextension install --user
 
 # Activate ipywidgets extension in the environment that runs the notebook server
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
