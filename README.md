@@ -30,6 +30,8 @@ While the technical details are open to evolution over time, we are currently pu
 Click launch binder button above or follow this URL to view this repository in a pre-built environment:
 https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
 
+We recommend using this repository with Chrome or Firefox.
+
 ## Content
 * [Linear regression](notebooks/LinearRegression.ipynb)
 * [Sampling](notebooks/Sampling_Index.ipynb)
