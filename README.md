@@ -25,10 +25,10 @@ While the technical details are open to evolution over time, we are currently pu
 * Downloadable Docker containers (https://www.docker.com) for local execution.  
 
 ## MyBinder:
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyMLVizard/MLPyViz/develop_GD?filepath=Index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb)
 
 Click launch binder button above or follow this URL to view this repository in a pre-built environment:
-https://mybinder.org/v2/gh/PyMLVizard/MLPyViz/develop_GD?filepath=Index.ipynb
+https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
 
 ## Content
 * [Linear regression](notebooks/LinearRegression.ipynb)
