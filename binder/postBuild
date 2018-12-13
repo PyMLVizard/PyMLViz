@@ -1,0 +1,4 @@
+# Activate ipywidgets extension in the environment that runs the notebook server
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+# Activate bqplot
+jupyter nbextension enable --py --sys-prefix bqplot

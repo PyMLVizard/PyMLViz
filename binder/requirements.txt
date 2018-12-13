@@ -1,0 +1,9 @@
+numpy==1.14.0
+ipywidgets==7.2.1
+jupyter_cms
+matplotlib==2.1.2
+scipy==1.0.0
+pystan==2.17.1.0
+bqplot==0.11
+seaborn>=0.8.1
+torch==0.4.1
