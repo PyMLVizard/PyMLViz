@@ -30,10 +30,11 @@ We will be adding content in a rolling release fashion. Stay tuned for updates!
 
 You can launch available content and run it online using Binder by clicking the following button:
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb)
 
-or follow this URL to view this repository in a pre-built environment:
-https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
+or follow this URL:
+
+[https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb)
 
 
 ## Contributing
