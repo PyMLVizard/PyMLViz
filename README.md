@@ -18,6 +18,7 @@ We found that a variety of existing online material tends to focus on specific a
 
 ## Technical Details 
 While the technical details are open to evolution over time, we are currently pursuing an approach using the following methods:
+
 * Python as the only programming language.
 * This website/repository to aggregate the content.
 * Executable Jupyter notebooks (http://jupyter.org) to explore the underlying algorithm code and code for visualizations with the help of Binder (https://mybinder.org).
@@ -26,6 +27,14 @@ While the technical details are open to evolution over time, we are currently pu
 
 ## Content
 We will be adding content in a rolling release fashion. Stay tuned for updates! 
+
+You can launch available content and run it online using Binder by clicking the following button:
+
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb)
+
+or follow this URL to view this repository in a pre-built environment:
+https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
+
 
 ## Contributing
 We are open and grateful to contributions of any kind. 
