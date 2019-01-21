@@ -32,9 +32,25 @@ https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
 
 Note: Chrome or Firefox are recommended for using the notebooks!!
 
-## Content
-* [Linear regression](notebooks/LinearRegression.ipynb)
-* [Sampling](notebooks/Sampling_Index.ipynb)
+## Direct Links to Contents/Notebooks
+
+### Linear regression
+1. [Linear Regression](notebooks/LinearRegression.ipynb)
+
+### Sampling methods
+1. [Introduction. Inversion Sampling](notebooks/Sampling_Intro.ipynb)
+2. [Rejection sampling](notebooks/Sampling_Rejection.ipynb)
+3. [Importance sampling](notebooks/Sampling_Importance.ipynb)
+4. [Markov chain Monte-Carlo (MCMC) sampling: Metropolis-Hastings algorithm](notebooks/Sampling_MCMC.ipynb)
+5. [Gibbs Sampling](notebooks/Sampling_Gibbs.ipynb)
+    * [Example. Gibbs sampling for Gaussian mixture model](notebooks/Sampling_GaussianMixture_Example.ipynb)
+6. [Slice sampling](notebooks/Sampling_Slice.ipynb)
+7. [Hamiltonian Monte Carlo (HMC) sampling](notebooks/Sampling_HMC.ipynb)
+8. [PyStan](notebooks/Sampling_PyStan.ipynb)
+
+### Gradient descent methods
+1. [Introduction. Gradient and stochastic gradient descent](notebooks/GradientDescent_Intro.ipynb)
+2. [Variants. Momentum, Nesterov, Adagrad, RMSProp and Adam](notebooks/GradientDescent_Variants.ipynb)
 
 ## Contributing
 We are open and grateful to contributions of any kind. 
