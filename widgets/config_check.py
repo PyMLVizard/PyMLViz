@@ -26,12 +26,13 @@ def check_existence(module_name):
         warnings.warn(str(msg_no % module_name), stacklevel=100)
 
 modules_vers = {'numpy' : '1.14.0', 
-           'scipy' : '1.0.0', 
-           'matplotlib' : '2.1.2', 
-           'pystan' : '2.17.1.0', 
-           'ipywidgets' : '7.2.1',
-           'bqplot' : '0.10.5',
-           'IPython' : '6.3.1'}
+                'scipy' : '1.0.0', 
+                'matplotlib' : '2.1.2', 
+                'pystan' : '2.17.1.0', 
+                'ipywidgets' : '7.2.1',
+                'bqplot' : '0.11',
+                'IPython' : '6.3.1',
+                'torch' : '0.4.1'}
 modules_exist = ['jupyter_cms']
 
 for key, value in modules_vers.items():
