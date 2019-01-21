@@ -25,10 +25,11 @@ While the technical details are open to evolution over time, we are currently pu
 * Downloadable Docker containers (https://www.docker.com) for local execution.  
 
 ## MyBinder:
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb)
 
 Click launch binder button above or follow this URL to view this repository in a pre-built environment:
-https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/develop?filepath=Index.ipynb
+
+[https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb](https://mybinder.org/v2/gh/PyMLVizard/PyMLViz/master?filepath=Index.ipynb)
 
 Note: Chrome or Firefox are recommended for using the notebooks!!
 
